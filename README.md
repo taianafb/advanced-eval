@@ -6,6 +6,7 @@
  * HTML
  * CSS
  * PHP
+ * Git
 
 ## Sujet : Developper une interface de gestion d'usine de recyclage.
 
@@ -28,6 +29,12 @@ Question bonus :
 ### Taux de recyclage
  * type de contenu (plastique, alu, verre, carton, organique)
  * pourcentage du volume recyclable
+
+## Code
+
+  * Faire une fork du projet __advanced-eval__ sur son compte github.
+  * Faire le développement en effectuant des commits pour chaques taches.
+  * Faire une pull Request au projet initial __advanced-eval__ pour valider votre code.
 
 ## Notation 
  * Utilisation de git : 2 points
